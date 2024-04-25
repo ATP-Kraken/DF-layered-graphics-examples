@@ -1,0 +1,8 @@
+tile_page_creatures
+
+[OBJECT:TILE_PAGE]
+
+[TILE_PAGE:BONE_PILE]
+	[FILE:images/bone_pile.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM_PIXELS:32:64]
