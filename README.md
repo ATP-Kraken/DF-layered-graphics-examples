@@ -1,6 +1,9 @@
 Bay12Games topics:
+
 GIMP scripts: http://www.bay12forums.com/smf/index.php?topic=183029.0
+
 Layer graphics: http://www.bay12forums.com/smf/index.php?topic=182561.0
+
 
 This repository has split-up layer graphics for each of the main layered creatures, as a resource for modders looking to create layered graphics based on vanilla examples.
 
